@@ -12,4 +12,4 @@ To run this page
 * Open the index.html file
 
 About the author - 
-I am a graduate student currently enrolled in SDSU , Fall 21.
+I am a graduate student currently enrolled in [SDSU](https://www.sdsu.edu/) , Fall 21.
